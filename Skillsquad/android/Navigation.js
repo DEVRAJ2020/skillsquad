@@ -9,7 +9,7 @@ const Stack = createNativeStackNavigator();
 
 
 export default function navigation() {
-  const [page,setPage]=React.useState('Firebase')
+  const [page,setPage]=React.useState('FireBase')
   const Header=()=>{
     return(<>
     <View style={{height:50,width:'90%',alignSelf:'center',justifyContent:'space-around',marginVertical:20,flexDirection:'row'}}>
