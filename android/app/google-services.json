@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "420844949831",
+    "project_id": "auth-4f258",
+    "storage_bucket": "auth-4f258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420844949831:android:bd83d41825bf8d5fa53c62",
+        "android_client_info": {
+          "package_name": "com.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCZPZNUpu-CiU4-RPWxFTfTZCnL0EdKYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420844949831:android:e238473ef392494ca53c62",
+        "android_client_info": {
+          "package_name": "com.skillsquad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420844949831-eu3f8se31mmv9mlode4jjmgf7gknp32d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skillsquad",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCZPZNUpu-CiU4-RPWxFTfTZCnL0EdKYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
